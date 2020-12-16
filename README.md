@@ -49,7 +49,7 @@
 <br>
 
 ## [문제 13] 검거율 및 살인 비율 시각화
-![답13](https://user-images.githubusercontent.com/73818089/102338716-8f528300-3fd7-11eb-8604-c00ef2585f71.png)
+![답13new](https://user-images.githubusercontent.com/73818089/102342761-076f7780-3fdd-11eb-947c-79c1f0132268.png)
 <br>
 
 ## [문제 14] 로컬 호스트에서 Covid19 시각화
